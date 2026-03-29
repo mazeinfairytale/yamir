@@ -10,6 +10,10 @@ header {
   padding: 20px;
   border-bottom: 1px solid gold;
 }
+.logo {
+  width: 120px;
+  margin-bottom: 10px;
+}
 
 h1 {
   color: gold;
@@ -80,4 +84,9 @@ footer {
   text-align: center;
   padding: 20px;
   border-top: 1px solid gold;
+}
+
+.footer-logo {
+  width: 80px;
+  margin-bottom: 10px;
 }
